@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd0ea4f9-0aa0-46be-9161-27065ceb9988" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/summary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK.java" afterPath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java" afterPath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java" afterPath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java" afterPath="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bd0ea4f9-0aa0-46be-9161-27065ceb9988" name="Default" comment="" />
     <ignored path="codeCompileEncoding.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/App.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386035536276" ignored="false" />
     <file path="/App2.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386038975895" ignored="false" />
     <file path="/fragment.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386048099374" ignored="false" />
-    <file path="/AppUTF8_GBK.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386061429941" ignored="false" />
+    <file path="/AppUTF8_GBK.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386062015456" ignored="false" />
     <file path="/pom.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386056098581" ignored="false" />
     <file path="/AppGBK_UTF8.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386060726917" ignored="false" />
     <file path="/AppGBK.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386049357234" ignored="false" />
-    <file path="/AppUTF_8.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386060241078" ignored="false" />
+    <file path="/AppUTF_8.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386062065599" ignored="false" />
     <file path="/Dummy.txt" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386050628134" ignored="false" />
     <file path="$PROJECT_DIR$/../web/defaultRoot/pages/netview/idcview_device_room.jsp" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386052301563" ignored="false" />
     <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/web/netview/IDCViewAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386054763455" ignored="false" />
@@ -122,16 +115,16 @@
       <file leaf-file-name="AppUTF_8.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="3" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+            <state line="14" column="37" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppUTF8_GBK.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AppUTF8_GBK.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="34" selection-start="513" selection-end="513" vertical-scroll-proportion="0.7040417">
+            <state line="19" column="32" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,10 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppGBK_UTF8.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppGBK_UTF8.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+            <state line="22" column="18" selection-start="518" selection-end="518" vertical-scroll-proportion="0.7744459">
               <folding />
             </state>
           </provider>
@@ -200,9 +193,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/pom1.xml" />
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java" />
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java" />
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java" />
       </list>
     </option>
   </component>
@@ -847,20 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resource/summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -868,9 +847,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="34" selection-start="513" selection-end="513" vertical-scroll-proportion="0.7040417">
+        <state line="19" column="32" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="18" selection-start="518" selection-end="518" vertical-scroll-proportion="0.7744459">
           <folding />
         </state>
       </provider>
