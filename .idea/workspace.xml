@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0ea4f9-0aa0-46be-9161-27065ceb9988" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\workspace\codeCompileEncoding\src\main\java\codeCompileEncoding\AppGBK.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\workspace\codeCompileEncoding\src\main\java\codeCompileEncoding\AppUTF8_GBK.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\workspace\codeCompileEncoding\src\main\java\codeCompileEncoding\AppUTF_8.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/codeCompileEncoding/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codeCompileEncoding.iml" afterPath="$PROJECT_DIR$/codeCompileEncoding.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="codeCompileEncoding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,19 +15,21 @@
     <file path="/App2.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386038975895" ignored="false" />
     <file path="/fragment.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386048099374" ignored="false" />
     <file path="/AppUTF8_GBK.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386049331401" ignored="false" />
-    <file path="/pom.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386048235188" ignored="false" />
+    <file path="/pom.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386056098581" ignored="false" />
     <file path="/AppGBK_UTF8.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386050219764" ignored="false" />
     <file path="/AppGBK.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386049357234" ignored="false" />
     <file path="/AppUTF_8.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386049368895" ignored="false" />
     <file path="/Dummy.txt" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386050628134" ignored="false" />
     <file path="$PROJECT_DIR$/../web/defaultRoot/pages/netview/idcview_device_room.jsp" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386052301563" ignored="false" />
-    <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/web/netview/IDCViewAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386052589713" ignored="false" />
+    <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/web/netview/IDCViewAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386054763455" ignored="false" />
     <file path="$PROJECT_DIR$/../web/defaultRoot/WEB-INF/classes/struts-organize.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386052794768" ignored="false" />
     <file path="$PROJECT_DIR$/../web/defaultRoot/WEB-INF/classes/applicationContext-logic.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386052794768" ignored="false" />
     <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/web/netview/IDCTreeAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386053226476" ignored="false" />
     <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/web/netview/ShowImageAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386053506753" ignored="false" />
     <file path="/*.regexp" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386053934116" ignored="false" />
     <file path="$PROJECT_DIR$/../web/src/com/snda/sysdev/number4/business/netview/logic/logicImpl/LinkViewLogicImpl.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386054084264" ignored="false" />
+    <file path="/IDCViewAction.java" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386054757974" ignored="false" />
+    <file path="$PROJECT_DIR$/../web/pom.xml" changelist="bd0ea4f9-0aa0-46be-9161-27065ceb9988" time="1386056103835" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +110,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codeCompileEncoding/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="17" selection-start="207" selection-end="207" vertical-scroll-proportion="0.4889336">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AppUTF_8.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,10 +137,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppGBK_UTF8.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AppGBK_UTF8.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="68" selection-start="351" selection-end="351" vertical-scroll-proportion="0.7548387">
+            <state line="13" column="68" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom1.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="336" column="46" selection-start="11966" selection-end="11966" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -170,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF8_GBK.java" />
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java" />
         <option value="$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java" />
+        <option value="$PROJECT_DIR$/pom1.xml" />
       </list>
     </option>
   </component>
@@ -191,6 +215,34 @@
           <option name="myItemId" value="codeCompileEncoding" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codeCompileEncoding" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="compiler" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="codeCompileEncoding" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
@@ -199,9 +251,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1260" />
-    <option name="height" value="984" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -344,6 +397,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeCompileEncoding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -395,6 +452,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="codeCompileEncoding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\codeCompileEncoding" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AppGBK_UTF8">
@@ -621,7 +681,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1260" height="984" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -640,11 +700,11 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.6486486" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924837" sideWeight="0.7253012" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6486486" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35135135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24264705" sideWeight="0.7253012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2746988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -735,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppUTF_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="31" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
@@ -758,7 +811,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK_UTF8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="68" selection-start="351" selection-end="351" vertical-scroll-proportion="0.7548387">
+        <state line="13" column="68" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="336" column="46" selection-start="11966" selection-end="11966" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codeCompileEncoding/AppGBK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codeCompileEncoding/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="207" selection-end="207" vertical-scroll-proportion="0.4889336">
           <folding />
         </state>
       </provider>
